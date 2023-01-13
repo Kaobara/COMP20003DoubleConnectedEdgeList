@@ -1,0 +1,654 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.11.0 - built Nov 24 2020 19:41:47
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12009000, The X.Org Foundation
+
+
+Sat Aug 21 15:27:01 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 16001
+ vncext:      created VNC server for screen 0
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86BrightnessAuto
+> Warning:          Could not resolve keysym XF86DisplayOff
+> Warning:          Could not resolve keysym XF86Info
+> Warning:          Could not resolve keysym XF86AspectRatio
+> Warning:          Could not resolve keysym XF86DVD
+> Warning:          Could not resolve keysym XF86Audio
+> Warning:          Could not resolve keysym XF86ChannelUp
+> Warning:          Could not resolve keysym XF86ChannelDown
+> Warning:          Could not resolve keysym XF86Break
+> Warning:          Could not resolve keysym XF86VideoPhone
+> Warning:          Could not resolve keysym XF86ZoomReset
+> Warning:          Could not resolve keysym XF86Editor
+> Warning:          Could not resolve keysym XF86GraphicsEditor
+> Warning:          Could not resolve keysym XF86Presentation
+> Warning:          Could not resolve keysym XF86Database
+> Warning:          Could not resolve keysym XF86Voicemail
+> Warning:          Could not resolve keysym XF86Addressbook
+> Warning:          Could not resolve keysym XF86DisplayToggle
+> Warning:          Could not resolve keysym XF86SpellCheck
+> Warning:          Could not resolve keysym XF86ContextMenu
+> Warning:          Could not resolve keysym XF86MediaRepeat
+> Warning:          Could not resolve keysym XF8610ChannelsUp
+> Warning:          Could not resolve keysym XF8610ChannelsDown
+> Warning:          Could not resolve keysym XF86Images
+> Warning:          Could not resolve keysym XF86NotificationCenter
+> Warning:          Could not resolve keysym XF86PickupPhone
+> Warning:          Could not resolve keysym XF86HangupPhone
+> Warning:          Could not resolve keysym XF86Fn
+> Warning:          Could not resolve keysym XF86Fn_Esc
+> Warning:          Could not resolve keysym XF86FnRightShift
+> Warning:          Could not resolve keysym XF86Numeric0
+> Warning:          Could not resolve keysym XF86Numeric1
+> Warning:          Could not resolve keysym XF86Numeric2
+> Warning:          Could not resolve keysym XF86Numeric3
+> Warning:          Could not resolve keysym XF86Numeric4
+> Warning:          Could not resolve keysym XF86Numeric5
+> Warning:          Could not resolve keysym XF86Numeric6
+> Warning:          Could not resolve keysym XF86Numeric7
+> Warning:          Could not resolve keysym XF86Numeric8
+> Warning:          Could not resolve keysym XF86Numeric9
+> Warning:          Could not resolve keysym XF86NumericStar
+> Warning:          Could not resolve keysym XF86NumericPound
+> Warning:          Could not resolve keysym XF86NumericA
+> Warning:          Could not resolve keysym XF86NumericB
+> Warning:          Could not resolve keysym XF86NumericC
+> Warning:          Could not resolve keysym XF86NumericD
+> Warning:          Could not resolve keysym XF86CameraFocus
+> Warning:          Could not resolve keysym XF86WPSButton
+> Warning:          Could not resolve keysym XF86CameraZoomIn
+> Warning:          Could not resolve keysym XF86CameraZoomOut
+> Warning:          Could not resolve keysym XF86CameraUp
+> Warning:          Could not resolve keysym XF86CameraDown
+> Warning:          Could not resolve keysym XF86CameraLeft
+> Warning:          Could not resolve keysym XF86CameraRight
+> Warning:          Could not resolve keysym XF86AttendantOn
+> Warning:          Could not resolve keysym XF86AttendantOff
+> Warning:          Could not resolve keysym XF86AttendantToggle
+> Warning:          Could not resolve keysym XF86LightsToggle
+> Warning:          Could not resolve keysym XF86ALSToggle
+> Warning:          Could not resolve keysym XF86Buttonconfig
+> Warning:          Could not resolve keysym XF86Taskmanager
+> Warning:          Could not resolve keysym XF86Journal
+> Warning:          Could not resolve keysym XF86ControlPanel
+> Warning:          Could not resolve keysym XF86AppSelect
+> Warning:          Could not resolve keysym XF86Screensaver
+> Warning:          Could not resolve keysym XF86VoiceCommand
+> Warning:          Could not resolve keysym XF86Assistant
+> Warning:          Could not resolve keysym XF86BrightnessMin
+> Warning:          Could not resolve keysym XF86BrightnessMax
+> Warning:          Could not resolve keysym XF86KbdInputAssistPrev
+> Warning:          Could not resolve keysym XF86KbdInputAssistNext
+> Warning:          Could not resolve keysym XF86KbdInputAssistPrevgroup
+> Warning:          Could not resolve keysym XF86KbdInputAssistNextgroup
+> Warning:          Could not resolve keysym XF86KbdInputAssistAccept
+> Warning:          Could not resolve keysym XF86KbdInputAssistCancel
+> Warning:          Could not resolve keysym XF86RightUp
+> Warning:          Could not resolve keysym XF86RightDown
+> Warning:          Could not resolve keysym XF86LeftUp
+> Warning:          Could not resolve keysym XF86LeftDown
+> Warning:          Could not resolve keysym XF86RootMenu
+> Warning:          Could not resolve keysym XF86MediaTopMenu
+> Warning:          Could not resolve keysym XF86Numeric11
+> Warning:          Could not resolve keysym XF86Numeric12
+> Warning:          Could not resolve keysym XF86AudioDesc
+> Warning:          Could not resolve keysym XF863DMode
+> Warning:          Could not resolve keysym XF86NextFavorite
+> Warning:          Could not resolve keysym XF86StopRecord
+> Warning:          Could not resolve keysym XF86PauseRecord
+> Warning:          Could not resolve keysym XF86VOD
+> Warning:          Could not resolve keysym XF86Unmute
+> Warning:          Could not resolve keysym XF86FastReverse
+> Warning:          Could not resolve keysym XF86SlowReverse
+> Warning:          Could not resolve keysym XF86Data
+> Warning:          Could not resolve keysym XF86OnScreenKeyboard
+> Warning:          Could not resolve keysym XF86PrivacyScreenToggle
+> Warning:          Could not resolve keysym XF86SelectiveScreenshot
+> Warning:          Could not resolve keysym XF86Macro1
+> Warning:          Could not resolve keysym XF86Macro2
+> Warning:          Could not resolve keysym XF86Macro3
+> Warning:          Could not resolve keysym XF86Macro4
+> Warning:          Could not resolve keysym XF86Macro5
+> Warning:          Could not resolve keysym XF86Macro6
+> Warning:          Could not resolve keysym XF86Macro7
+> Warning:          Could not resolve keysym XF86Macro8
+> Warning:          Could not resolve keysym XF86Macro9
+> Warning:          Could not resolve keysym XF86Macro10
+> Warning:          Could not resolve keysym XF86Macro11
+> Warning:          Could not resolve keysym XF86Macro12
+> Warning:          Could not resolve keysym XF86Macro13
+> Warning:          Could not resolve keysym XF86Macro14
+> Warning:          Could not resolve keysym XF86Macro15
+> Warning:          Could not resolve keysym XF86Macro16
+> Warning:          Could not resolve keysym XF86Macro17
+> Warning:          Could not resolve keysym XF86Macro18
+> Warning:          Could not resolve keysym XF86Macro19
+> Warning:          Could not resolve keysym XF86Macro20
+> Warning:          Could not resolve keysym XF86Macro21
+> Warning:          Could not resolve keysym XF86Macro22
+> Warning:          Could not resolve keysym XF86Macro23
+> Warning:          Could not resolve keysym XF86Macro24
+> Warning:          Could not resolve keysym XF86Macro25
+> Warning:          Could not resolve keysym XF86Macro26
+> Warning:          Could not resolve keysym XF86Macro27
+> Warning:          Could not resolve keysym XF86Macro28
+> Warning:          Could not resolve keysym XF86Macro29
+> Warning:          Could not resolve keysym XF86Macro30
+> Warning:          Could not resolve keysym XF86MacroRecordStart
+> Warning:          Could not resolve keysym XF86MacroRecordStop
+> Warning:          Could not resolve keysym XF86MacroPresetCycle
+> Warning:          Could not resolve keysym XF86MacroPreset1
+> Warning:          Could not resolve keysym XF86MacroPreset2
+> Warning:          Could not resolve keysym XF86MacroPreset3
+> Warning:          Could not resolve keysym XF86KbdLcdMenu1
+> Warning:          Could not resolve keysym XF86KbdLcdMenu2
+> Warning:          Could not resolve keysym XF86KbdLcdMenu3
+> Warning:          Could not resolve keysym XF86KbdLcdMenu4
+> Warning:          Could not resolve keysym XF86KbdLcdMenu5
+Errors from xkbcomp are not fatal to the X server
+Failed to connect to bus: $DBUS_SESSION_BUS_ADDRESS and $XDG_RUNTIME_DIR not defined (consider using --machine=<user>@.host --user to connect to bus of other user)
+dbus-update-activation-environment: error: unable to connect to D-Bus: Using X11 for dbus-daemon autolaunch was disabled at compile time, set your DBUS_SESSION_BUS_ADDRESS instead
+xsettingsd: Loaded 5 settings from /home/.xsettingsd
+xsettingsd: Created window 0x200001 on screen 0 with timestamp 1091769139
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+
+ERROR: openbox-xdg-autostart requires PyXDG to be installed
+
+Sat Aug 21 15:27:05 2021
+ Connections: accepted: 127.0.0.1::49052
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Sat Aug 21 15:27:06 2021
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 15:27:17 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x622
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x622
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x622
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x622
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x622
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x622
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x622
+
+Sat Aug 21 15:27:30 2021
+ VNCSConnST:  closing 127.0.0.1::49052: Clean disconnection
+ EncodeManager: Framebuffer updates: 6
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 12 rects, 1.69682 Mpixels
+ EncodeManager:            192 B (1:35351.1 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 630 pixels
+ EncodeManager:                  817 B (1:3.11383 ratio)
+ EncodeManager:   Total: 14 rects, 1.69745 Mpixels
+ EncodeManager:          1009 B (1:6729.4 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 15:27:47 2021
+ Connections: accepted: 127.0.0.1::49056
+ SConnection: Client needs protocol version 3.7
+
+Sat Aug 21 15:27:48 2021
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+ ComparingUpdateTracker: 353.742 kpixels in / 353.742 kpixels out
+ ComparingUpdateTracker: (1:1 ratio)
+
+Sat Aug 21 15:29:55 2021
+ VNCSConnST:  closing 127.0.0.1::49056: Clean disconnection
+ EncodeManager: Framebuffer updates: 101
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 85 rects, 1.07915 Mpixels
+ EncodeManager:            1.32812 KiB (1:3174.72 ratio)
+ EncodeManager:     Bitmap RLE: 11 rects, 1.098 kpixels
+ EncodeManager:                 341 B (1:13.2669 ratio)
+ EncodeManager:     Indexed RLE: 79 rects, 99.757 kpixels
+ EncodeManager:                  19.5264 KiB (1:20.0038 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 112 rects, 366.35 kpixels
+ EncodeManager:                  278.724 KiB (1:5.13902 ratio)
+ EncodeManager:   Total: 287 rects, 1.54636 Mpixels
+ EncodeManager:          299.911 KiB (1:20.152 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 5.88 kpixels in / 0 pixels out
+ ComparingUpdateTracker: (1:inf ratio)
+
+Sat Aug 21 15:30:41 2021
+ Connections: accepted: 127.0.0.1::49064
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Aug 21 17:14:27 2021
+ ComparingUpdateTracker: 3.31867 Mpixels in / 2.29158 Mpixels out
+ ComparingUpdateTracker: (1:1.4482 ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x421
+
+Sat Aug 21 17:14:29 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x421 at 0,0 exceeds framebuffer
+              871x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x421 at 0,0 exceeds framebuffer
+              871x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x421 at 0,0 exceeds framebuffer
+              871x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x421 at 0,0 exceeds framebuffer
+              871x421
+
+Sat Aug 21 17:14:30 2021
+ VNCSConnST:  FramebufferUpdateRequest 1091x421 at 0,0 exceeds framebuffer
+              871x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x421 at 0,0 exceeds framebuffer
+              871x421
+ VNCSConnST:  FramebufferUpdateRequest 1091x421 at 0,0 exceeds framebuffer
+              871x421
+
+Sat Aug 21 17:14:50 2021
+ VNCSConnST:  closing 127.0.0.1::49064: Clean disconnection
+ EncodeManager: Framebuffer updates: 514
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 2 rects, 21.816 kpixels
+ EncodeManager:             32 B (1:2727.75 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 227 rects, 3.22316 Mpixels
+ EncodeManager:            3.54688 KiB (1:3550.48 ratio)
+ EncodeManager:     Bitmap RLE: 46 rects, 6.755 kpixels
+ EncodeManager:                 1.37012 KiB (1:19.6522 ratio)
+ EncodeManager:     Indexed RLE: 330 rects, 404.641 kpixels
+ EncodeManager:                  77.834 KiB (1:20.3574 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 480 rects, 1.18756 Mpixels
+ EncodeManager:                  1.08122 MiB (1:4.19497 ratio)
+ EncodeManager:   Total: 1.085 krects, 4.84394 Mpixels
+ EncodeManager:          1.16206 MiB (1:15.9118 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 540.772 kpixels in / 252.948 kpixels out
+ ComparingUpdateTracker: (1:2.13788 ratio)
+
+Sat Aug 21 17:14:55 2021
+ Connections: accepted: 127.0.0.1::49880
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Aug 21 17:14:56 2021
+ ComparingUpdateTracker: 263.862 kpixels in / 263.862 kpixels out
+ ComparingUpdateTracker: (1:1 ratio)
+
+Sat Aug 21 17:28:14 2021
+ VNCSConnST:  closing 127.0.0.1::49880: Clean disconnection
+ EncodeManager: Framebuffer updates: 197
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 92 rects, 1.63184 Mpixels
+ EncodeManager:            1.4375 KiB (1:4435.1 ratio)
+ EncodeManager:     Bitmap RLE: 39 rects, 6.446 kpixels
+ EncodeManager:                 1.17188 KiB (1:21.8767 ratio)
+ EncodeManager:     Indexed RLE: 143 rects, 172.7 kpixels
+ EncodeManager:                  33.8887 KiB (1:19.9561 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 180 rects, 504.909 kpixels
+ EncodeManager:                  388.427 KiB (1:5.0831 ratio)
+ EncodeManager:   Total: 454 rects, 2.3159 Mpixels
+ EncodeManager:          424.925 KiB (1:21.3021 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 1.17528 Mpixels in / 971.346 kpixels out
+ ComparingUpdateTracker: (1:1.20995 ratio)
+
+Sat Aug 21 17:29:52 2021
+ Connections: accepted: 127.0.0.1::50296
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Aug 21 17:29:54 2021
+ VNCSConnST:  closing 127.0.0.1::50296: Clean disconnection
+ EncodeManager: Framebuffer updates: 1
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 4 rects, 711.017 kpixels
+ EncodeManager:            64 B (1:44439.3 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 315 pixels
+ EncodeManager:                  513 B (1:2.47953 ratio)
+ EncodeManager:   Total: 5 rects, 711.332 kpixels
+ EncodeManager:          577 B (1:4931.35 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 17:30:58 2021
+ Connections: accepted: 127.0.0.1::50306
+ SConnection: Client needs protocol version 3.7
+
+Sat Aug 21 17:30:59 2021
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Aug 21 17:31:48 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x581
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x581
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x581
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x581
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x581
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x581
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              1091x581
+
+Sat Aug 21 17:32:13 2021
+ ComparingUpdateTracker: 354.092 kpixels in / 353.742 kpixels out
+ ComparingUpdateTracker: (1:1.00099 ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x581 at 0,0 exceeds framebuffer
+              1091x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x581 at 0,0 exceeds framebuffer
+              1091x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x581 at 0,0 exceeds framebuffer
+              1091x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x581 at 0,0 exceeds framebuffer
+              1091x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x581 at 0,0 exceeds framebuffer
+              1091x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x581 at 0,0 exceeds framebuffer
+              1091x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x581 at 0,0 exceeds framebuffer
+              1091x488
+
+Sat Aug 21 17:32:16 2021
+ ComparingUpdateTracker: 287.36 kpixels in / 284.992 kpixels out
+ ComparingUpdateTracker: (1:1.00831 ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x488 at 0,0 exceeds framebuffer
+              763x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x488 at 0,0 exceeds framebuffer
+              763x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x488 at 0,0 exceeds framebuffer
+              763x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x488 at 0,0 exceeds framebuffer
+              763x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x488 at 0,0 exceeds framebuffer
+              763x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x488 at 0,0 exceeds framebuffer
+              763x488
+ VNCSConnST:  FramebufferUpdateRequest 1091x488 at 0,0 exceeds framebuffer
+              763x488
+
+Sat Aug 21 17:32:33 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 763x488 at 0,0 exceeds framebuffer
+              439x488
+ VNCSConnST:  FramebufferUpdateRequest 763x488 at 0,0 exceeds framebuffer
+              439x488
+ VNCSConnST:  FramebufferUpdateRequest 763x488 at 0,0 exceeds framebuffer
+              439x488
+ VNCSConnST:  FramebufferUpdateRequest 763x488 at 0,0 exceeds framebuffer
+              439x488
+ VNCSConnST:  FramebufferUpdateRequest 763x488 at 0,0 exceeds framebuffer
+              439x488
+ VNCSConnST:  FramebufferUpdateRequest 763x488 at 0,0 exceeds framebuffer
+              439x488
+ VNCSConnST:  FramebufferUpdateRequest 763x488 at 0,0 exceeds framebuffer
+              439x488
+
+Sat Aug 21 17:32:36 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 17:32:58 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 799x488 at 0,0 exceeds framebuffer
+              799x442
+ VNCSConnST:  FramebufferUpdateRequest 799x488 at 0,0 exceeds framebuffer
+              799x442
+ VNCSConnST:  FramebufferUpdateRequest 799x488 at 0,0 exceeds framebuffer
+              799x442
+ VNCSConnST:  FramebufferUpdateRequest 799x488 at 0,0 exceeds framebuffer
+              799x442
+ VNCSConnST:  FramebufferUpdateRequest 799x488 at 0,0 exceeds framebuffer
+              799x442
+ VNCSConnST:  FramebufferUpdateRequest 799x488 at 0,0 exceeds framebuffer
+              799x442
+ VNCSConnST:  FramebufferUpdateRequest 799x488 at 0,0 exceeds framebuffer
+              799x442
+
+Sat Aug 21 17:33:02 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 799x442 at 0,0 exceeds framebuffer
+              799x427
+ VNCSConnST:  FramebufferUpdateRequest 799x442 at 0,0 exceeds framebuffer
+              799x427
+ VNCSConnST:  FramebufferUpdateRequest 799x442 at 0,0 exceeds framebuffer
+              799x427
+ VNCSConnST:  FramebufferUpdateRequest 799x442 at 0,0 exceeds framebuffer
+              799x427
+ VNCSConnST:  FramebufferUpdateRequest 799x442 at 0,0 exceeds framebuffer
+              799x427
+ VNCSConnST:  FramebufferUpdateRequest 799x442 at 0,0 exceeds framebuffer
+              799x427
+ VNCSConnST:  FramebufferUpdateRequest 799x442 at 0,0 exceeds framebuffer
+              799x427
+
+Sat Aug 21 17:33:51 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 799x427 at 0,0 exceeds framebuffer
+              492x427
+ VNCSConnST:  FramebufferUpdateRequest 799x427 at 0,0 exceeds framebuffer
+              492x427
+ VNCSConnST:  FramebufferUpdateRequest 799x427 at 0,0 exceeds framebuffer
+              492x427
+
+Sat Aug 21 17:33:52 2021
+ VNCSConnST:  FramebufferUpdateRequest 799x427 at 0,0 exceeds framebuffer
+              492x427
+ VNCSConnST:  FramebufferUpdateRequest 799x427 at 0,0 exceeds framebuffer
+              492x427
+ VNCSConnST:  FramebufferUpdateRequest 799x427 at 0,0 exceeds framebuffer
+              492x427
+ VNCSConnST:  FramebufferUpdateRequest 799x427 at 0,0 exceeds framebuffer
+              492x427
+
+Sat Aug 21 17:33:54 2021
+ ComparingUpdateTracker: 110.416 kpixels in / 6.164 kpixels out
+ ComparingUpdateTracker: (1:17.913 ratio)
+ VNCSConnST:  FramebufferUpdateRequest 492x427 at 0,0 exceeds framebuffer
+              489x427
+ VNCSConnST:  FramebufferUpdateRequest 492x427 at 0,0 exceeds framebuffer
+              489x427
+ VNCSConnST:  FramebufferUpdateRequest 492x427 at 0,0 exceeds framebuffer
+              489x427
+ VNCSConnST:  FramebufferUpdateRequest 492x427 at 0,0 exceeds framebuffer
+              489x427
+ VNCSConnST:  FramebufferUpdateRequest 492x427 at 0,0 exceeds framebuffer
+              489x427
+ VNCSConnST:  FramebufferUpdateRequest 492x427 at 0,0 exceeds framebuffer
+              489x427
+ VNCSConnST:  FramebufferUpdateRequest 492x427 at 0,0 exceeds framebuffer
+              489x427
+
+Sat Aug 21 17:34:03 2021
+ ComparingUpdateTracker: 102.432 kpixels in / 91.104 kpixels out
+ ComparingUpdateTracker: (1:1.12434 ratio)
+
+Sat Aug 21 17:34:30 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 17:43:59 2021
+ VNCSConnST:  closing 127.0.0.1::50306: Clean disconnection
+ EncodeManager: Framebuffer updates: 802
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 478 rects, 4.33999 Mpixels
+ EncodeManager:            7.46875 KiB (1:2270.62 ratio)
+ EncodeManager:     Bitmap RLE: 41 rects, 13.616 kpixels
+ EncodeManager:                 1.24707 KiB (1:43.0352 ratio)
+ EncodeManager:     Indexed RLE: 602 rects, 602.86 kpixels
+ EncodeManager:                  122.978 KiB (1:19.2066 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 734 rects, 1.9409 Mpixels
+ EncodeManager:                  1.59656 MiB (1:4.64269 ratio)
+ EncodeManager:   Total: 1.855 krects, 6.89736 Mpixels
+ EncodeManager:          1.72517 MiB (1:15.2638 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 1.39956 Mpixels in / 584.882 kpixels out
+ ComparingUpdateTracker: (1:2.39289 ratio)
+
+Sat Aug 21 17:47:46 2021
+ Connections: accepted: 127.0.0.1::50422
+ SConnection: Client needs protocol version 3.7
+
+Sat Aug 21 17:47:47 2021
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 17:47:50 2021
+ VNCSConnST:  closing 127.0.0.1::50422: Clean disconnection
+ EncodeManager: Framebuffer updates: 5
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 11 rects, 1.11015 Mpixels
+ EncodeManager:            176 B (1:25231.5 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 630 pixels
+ EncodeManager:                  817 B (1:3.11383 ratio)
+ EncodeManager:   Total: 13 rects, 1.11078 Mpixels
+ EncodeManager:          993 B (1:4474.61 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 17:49:52 2021
+ Connections: accepted: 127.0.0.1::50428
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Aug 21 17:49:54 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              782x427
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              782x427
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              782x427
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              782x427
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              782x427
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              782x427
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              782x427
+
+Sat Aug 21 17:49:58 2021
+ VNCSConnST:  closing 127.0.0.1::50428: Clean disconnection
+ EncodeManager: Framebuffer updates: 2
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 4 rects, 1.0452 Mpixels
+ EncodeManager:            64 B (1:65325.6 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 48 pixels
+ EncodeManager:                  115 B (1:1.87826 ratio)
+ EncodeManager:   Total: 6 rects, 1.04525 Mpixels
+ EncodeManager:          179 B (1:23357.9 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 17:50:07 2021
+ Connections: accepted: 127.0.0.1::50430
+
+Sat Aug 21 17:50:08 2021
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Aug 21 17:50:09 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Aug 21 17:50:13 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              655x340
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              655x340
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              655x340
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              655x340
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              655x340
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              655x340
+ VNCSConnST:  FramebufferUpdateRequest 1091x652 at 0,0 exceeds framebuffer
+              655x340
+
+Sat Aug 21 17:50:16 2021
+ VNCSConnST:  closing 127.0.0.1::50430: Clean disconnection
+ EncodeManager: Framebuffer updates: 6
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 11 rects, 1.26794 Mpixels
+ EncodeManager:            176 B (1:28817.5 ratio)
+ EncodeManager:     Indexed RLE: 4 rects, 324 pixels
+ EncodeManager:                  615 B (1:2.18537 ratio)
+ EncodeManager:   Total: 15 rects, 1.26826 Mpixels
+ EncodeManager:          791 B (1:6413.68 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
